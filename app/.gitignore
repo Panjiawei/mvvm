@@ -1,0 +1,8 @@
+/build
+/.idea/
+/app/build/
+/build/
+/local.properties
+*.iml
+.gradle/
+/ocr_ui/build/
